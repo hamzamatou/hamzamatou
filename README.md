@@ -78,4 +78,3 @@ Développement d’une application pour la gestion des demandes de clés de sall
 
 - **INACTUS Charguia :** Membre actif dans le développement de solutions entrepreneuriales.  
 - **ARTVIBE Charguia :** Vice-Président Média, responsable de la création de contenu visuel.
-
