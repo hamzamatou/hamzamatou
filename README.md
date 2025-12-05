@@ -1,45 +1,81 @@
-# 👨‍💻 Maatougui Hamza
-## [cite_start]Développeur Full Stack Junior [cite: 1]
+# 👨‍💻 Maatougui Hamza  
+## 🚀 Développeur Full Stack Junior
 
-Salut ! [cite_start]Je suis Hamza, un étudiant curieux et rigoureux en 3ème année de Licence en Développement des Systèmes d'Information à l'ISET Charguia[cite: 5].
-
-[cite_start]Je suis passionné par le développement Web, le Réseau et l'Architecture Logicielle[cite: 5]. [cite_start]Mon objectif est de concevoir des solutions **robustes et fiables** qui apportent des résultats à forte valeur ajoutée en phase avec les besoins métier, en garantissant toujours la qualité et l'innovation technique[cite: 6, 7].
-
----
-
-### 🛠️ Compétences Techniques Clés
-
-* [cite_start]**Développement :** Spring Boot (Java), Flask (Python), Node.js (Express), .NET mvc core (C#), Angular, Flutter [cite: 35]
-* [cite_start]**Bases de Données :** SQL Server, MySQL, PostgreSQL, Oracle, MongoDB [cite: 37]
-* [cite_start]**DevOps & Infrastructure :** Virtualisation, Docker, Git / GitHub [cite: 36]
-* [cite_start]**Modélisation :** UML [cite: 38]
+Salut !  
+Je suis **Hamza**, étudiant en **3ᵉ année de Licence en Développement des Systèmes d’Information** à l’ISET Charguia.  
+Passionné par le **développement Web**, le **Réseau** et l’**Architecture Logicielle**, j’aime créer des solutions **robustes**, **fiables** et alignées avec les besoins métier.  
+Mon objectif est de concevoir des solutions à **forte valeur ajoutée**, en garantissant toujours la **qualité** et l’**innovation technique**.
 
 ---
 
-### 🚀 Projets et Expériences Notables
+## 🛠️ Compétences Techniques
 
-#### Projets Académiques
+### 🔧 Développement
+- Spring Boot (Java)  
+- Flask (Python)  
+- Node.js (Express)  
+- .NET MVC Core (C#)  
+- Angular  
+- Flutter  
 
-* [cite_start]**Gestion Centralisée des Rendez-vous Médicaux** (Angular & Spring Boot) : Conception d'une plateforme multi-cabinets pour la gestion des médecins, patients et rendez-vous[cite: 27, 28].
-* [cite_start]**Système de Diagnostic Intelligent et d'Analyse des Pannes Techniques** (Flask & API AI) : Application pour la détection et l'analyse des pannes techniques avec intégration d'un diagnostic intelligent[cite: 29, 30].
-* [cite_start]**Plateforme Web & Mobile de Gestion et de Gamification du Recyclage** (Express.js, Flutter & MongoDB) : Solution complète de gestion et de suivi des déchets incluant un système de gamification (attribution de points)[cite: 32, 33].
+### 🗄️ Bases de Données
+- SQL Server  
+- MySQL  
+- PostgreSQL  
+- Oracle  
+- MongoDB  
 
-#### Expériences Professionnelles
+### 🛠️ DevOps & Infrastructure
+- Virtualisation  
+- Docker  
+- Git / GitHub  
 
-* [cite_start]**Stage de perfectionnement chez AsteelFlash** : Développement complet d'une application web pour la gestion du matériel informatique et son affectation aux employés (ASP.NET mvc core & SQL Server)[cite: 18, 19, 20].
-* [cite_start]**Stage d'Initiation chez TIS Circuits** : Développement d'une application web dédiée à la gestion des demandes de clés pour certaines salles sécurisées (ASP.NET mvc & SQL Server)[cite: 15, 16, 17].
+### 📐 Modélisation
+- UML  
 
 ---
 
-### 🌐 Connectons-nous
+## 🚀 Projets Académiques
 
-* [cite_start]**📧 Email :** hamzamaatougui06@gmail.com [cite: 3]
-* [cite_start]**📞 Téléphone :** 92 442 884 [cite: 2]
-* [cite_start]**📍 Localisation :** Rawed, Ariana [cite: 2]
+### **Gestion Centralisée des Rendez-vous Médicaux**  
+Plateforme Full-Stack pour gérer les rendez-vous médicaux (médecins, patients, cabinets).  
+➡️ **Angular + Spring Boot**
+
+### **Système de Diagnostic Intelligent des Pannes Techniques**  
+Application permettant l’analyse des pannes techniques avec intégration d’un diagnostic intelligent.  
+➡️ **Flask + API IA**
+
+### **Plateforme Web & Mobile de Gestion et Gamification du Recyclage**  
+Solution complète Web/Mobile avec un système de gamification (points, classement).  
+➡️ **Express.js + Flutter + MongoDB**
 
 ---
 
-### 💡 Centres d'Intérêt (Vie Associative)
+## 💼 Expériences Professionnelles
 
-* [cite_start]**INACTUS Charguia :** Membre actif impliqué le développement de solutions entrepreneuriales[cite: 40].
-* [cite_start]**ARTVIBE Charguia :** Vice-Président Média, responsable de la production de contenu visuel de l'association[cite: 41].
+### **AsteelFlash – Stage de Perfectionnement**  
+Développement d’une application complète pour la gestion du matériel informatique et son affectation.  
+➡️ **ASP.NET MVC Core & SQL Server**  
+📅 01/2025 – 02/2025
+
+### **TIS Circuits – Stage d’Initiation**  
+Développement d’une application pour la gestion des demandes de clés de salles sécurisées.  
+➡️ **ASP.NET MVC & SQL Server**  
+📅 01/2024 – 02/2024
+
+---
+
+## 🌐 Me Contacter
+
+- 📧 **Email :** hamzamaatougui06@gmail.com  
+- 📞 **Téléphone :** 92 442 884  
+- 📍 **Localisation :** Rawed, Ariana  
+- 🔗 **LinkedIn :** https://www.linkedin.com/in/hamza-maâtougui-b65a1138b  
+
+---
+
+## 💡 Centres d’Intérêt & Vie Associative
+
+- **INACTUS Charguia :** Membre actif dans le développement de solutions entrepreneuriales.  
+- **ARTVIBE Charguia :** Vice-Président Média, responsable de la création de contenu visuel.
+
